@@ -1,0 +1,6 @@
+F:\Datasoft\C# socket Program\serverVersion1\client\bin\Debug\client.exe.config
+F:\Datasoft\C# socket Program\serverVersion1\client\bin\Debug\client.exe
+F:\Datasoft\C# socket Program\serverVersion1\client\bin\Debug\client.pdb
+F:\Datasoft\C# socket Program\serverVersion1\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+F:\Datasoft\C# socket Program\serverVersion1\client\obj\Debug\client.exe
+F:\Datasoft\C# socket Program\serverVersion1\client\obj\Debug\client.pdb
